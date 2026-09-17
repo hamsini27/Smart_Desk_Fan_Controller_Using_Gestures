@@ -79,7 +79,7 @@ During my Embedded Systems and IoT virtual internship at SURE ProEd, I gained co
   This project involved designing and developing an automated control system using the core embedded concepts taught in the course. It focused on creating structured priority-based logic and implementing key hardware features like gesture control, occupancy detection, and thermal hysteresis.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="Context_Aware_Smart_Fan_Controller - 1 (2).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -87,7 +87,6 @@ During my Embedded Systems and IoT virtual internship at SURE ProEd, I gained co
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
 1. S. Alon and J. Susa, “Wireless Hand Gesture Recognition for an Automatic Fan Speed Control
 System: Rule-Based Approach,” in Proceedings of the 16th IEEE International Colloquium on Signal
 Processing & Its Applications (CSPA), Langkawi, Malaysia, 2020. DOI:
@@ -111,32 +110,26 @@ https://doi.org/10.30880/eeee.2025.06.02.039
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+The Soft Skills Training (SST) and Life Skills Training (LST) sessions were instrumental in shaping my professional readiness and personal growth. Through the 3-week SST program, I developed essential workplace competencies, including effective communication, resume preparation, interview techniques, and group discussion strategies. These sessions also helped me understand the contemporary IT market by introducing practical productivity tools, prompt engineering, and methods for integrating AI into daily workflows.
+
+The Sunday LST sessions broadened my perspective on real-world management, covering topics such as personal finance, lateral thinking, preventive healthcare, and community service. Learning about workplace ethics, emotional intelligence, and the journeys of exemplary industrialists motivated me to set higher goals and maintain a strong sense of social responsibility. Overall, these sessions bridged the gap between my technical engineering skills and the interpersonal abilities needed to navigate professional environments with discipline, clarity, and confidence.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+As part of my internship, I had the opportunity to build my technical skills while focusing on what truly matters: giving back to society.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
+  Madurai,Tamilnadu
   
- <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
+- **Helping Elder Citizens** – Assisted  elderly individuals with simple daily tasks and provided support where needed. 
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -146,12 +139,11 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://lnkd.in/p/dxZxnJrc" width="30%">
+<img src="https://github.com/user-attachments/assets/c471c4e1-d399-43c5-86b7-635cf53df1a6">
+<img src="https://github.com/user-attachments/assets/96179db9-8c30-4e19-be73-373e625e5a0a">
 </div>
 
 ---
